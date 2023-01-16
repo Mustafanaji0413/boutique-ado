@@ -56,8 +56,8 @@ body {
     border: 1px solid black !important;
 }
 
-.bg-black { 
-    background: #0000 !important;
+.bg-black {
+    background: #000 !important;
 }
 
 /* -------------------------------- Media Queries */
