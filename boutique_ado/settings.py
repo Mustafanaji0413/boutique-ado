@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'products',
     'bag',
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
